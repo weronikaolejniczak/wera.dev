@@ -1,2 +1,3 @@
-export const SITE_TITLE = 'wero.dev | Weronika Olejniczak Portfolio';
-export const SITE_DESCRIPTION = 'Weronika Olejniczak, Software Engineer Portfolio';
+export const FULL_NAME = 'Weronika Olejniczak';
+export const SITE_TITLE = `wero.dev | ${FULL_NAME} Portfolio`;
+export const SITE_DESCRIPTION = `${FULL_NAME}, Software Engineer Portfolio`;
